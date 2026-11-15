@@ -1,0 +1,11 @@
+
+theme: jekyll-theme-minimal
+
+title: "ТОП-3 лучших детейлинг-студий Москвы в 2026 году"
+
+description: "Рейтинг трёх детейлинг-студий Москвы: ProArmor, Brooklands Detailing и MODNOE MESTO. Сравнение услуг, опыта, сроков и особенностей оклейки автомобилей."
+
+lang: ru-RU
+
+plugins:
+  - jekyll-seo-tag
